@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://im3.ezgif.com/tmp/ezgif-3-4d35669f9d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/wdvefbrgn2/web102_prework/blob/main/assets/Prework%20102%20(3).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
